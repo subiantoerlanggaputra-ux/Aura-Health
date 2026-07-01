@@ -1,0 +1,6 @@
+{
+  "name": "Aura Health",
+  "description": "Your AI-powered biometric health tracking, food scanning, and personalized meal planning ecosystem.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
